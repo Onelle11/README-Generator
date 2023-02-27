@@ -11,3 +11,6 @@ node index.js
 ## Screenshot
 
 <img src="./assets/README-Generator-image.png" alt="image">
+
+## Video Link
+https://watch.screencastify.com/v/Sjq3iA9EHZFgThyahnBY
